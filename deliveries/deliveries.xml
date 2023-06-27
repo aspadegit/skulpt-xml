@@ -1,0 +1,2 @@
+<skulptGenerator><file>deliveries</file><project>deliveries (delivery game)</project><functions><function><skulpt>get_list</skulpt><severus>deliveryHolder</severus><parameters/><type>Return</type><description>Sensor function. Returns the list of deliveries active.
+</description><exampleParameters/></function></functions></skulptGenerator>
